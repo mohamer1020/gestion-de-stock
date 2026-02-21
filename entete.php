@@ -19,7 +19,7 @@ include_once '../model/function.php';
 
    ?>
    </title>
-<link rel="stylesheet" href="../public/css/style.css?v=<?php echo time(); ?>" />
+<link rel="stylesheet" href="/public/css/style.css?v=<?php echo time(); ?>" />
     <link
       href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css"
       rel="stylesheet"
@@ -95,4 +95,5 @@ include_once '../model/function.php';
    ?>
    </span>
         </div>
+
       </nav>                            
